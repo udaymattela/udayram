@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.commentsHeading {
+  font-size: 60px;
+  padding-left: 40px;
+}
+.flex_container {
+  display: flex;
+  justify-content: space-around;
+}
+.form_container {
+  width: 450px;
+}
+.form_heading {
+  font-size: 20px;
+}
+.text_input {
+  width: 355px;
+  height: 40px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.textArea {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.addbutton {
+  width: 130px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #0284c7;
+  color: white;
+  border: 0px;
+}

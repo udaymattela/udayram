@@ -1,0 +1,52 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.comment_container {
+  height: 120px;
+  background-color: #0ea5e9;
+  border-radius: 10px;
+  display: flex;
+
+  margin-bottom: 10px;
+  width: 80%;
+}
+.name_section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.letter {
+  background-color: green;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-top: 30px;
+  padding-left: 15px;
+}
